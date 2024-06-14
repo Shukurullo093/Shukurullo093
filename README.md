@@ -1,7 +1,7 @@
-Hello guys 👋, It is Shukurullo here!✌️
-Java backend developer & Cyber security enthusiast
-Some info about me📃
-Outstanding Web Developer and talented Software Engineer. My objective as a Web Developer is to apply my technical skills in IT craftsmanship and IT implementation, and to utilize my knowledge in web configuration and troubleshooting to fulfill the company’s vision and mission. I aim to bring success to the company by designing specific IT solutions that will address technical issues. I am a team player, open to adapt changes and a great problem solver. With this said, I can assure that I can be a useful talent for the company.
+<h1>Hello guys 👋, It is Shukurullo here!</h1>
+<h2>Java backend developer & Cyber security enthusiast</h2>
+<b>Some info about me📃</b><br>
+<span>Outstanding Web Developer and talented Software Engineer. My objective as a Web Developer is to apply my technical skills in IT craftsmanship and IT implementation, and to utilize my knowledge in web configuration and troubleshooting to fulfill the company’s vision and mission. I aim to bring success to the company by designing specific IT solutions that will address technical issues. I am a team player, open to adapt changes and a great problem solver. With this said, I can assure that I can be a useful talent for the company.</span>
 
 Growing Fields📈
 I focused on Web development(mostly on backend) and Cyber Security(as my speciality at university).
