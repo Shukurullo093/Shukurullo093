@@ -28,7 +28,6 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
    <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="64" height="64" /> 
    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="64" height="64" />
    <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="64" height="64" />
-   <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="64" height="64" />
 </div>
 
 ### I work with PostgreSQL database.
@@ -37,9 +36,11 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 
 ### At the same time I'm good with Linux, APIs, DSA, Math, OOP, Git.
 
-<img src="https://user-images.githubusercontent.com/75538894/208184423-2c379c75-265d-4d35-9334-82bf41f372c6.png" width="64" height="64" /> 
-<img src="https://user-images.githubusercontent.com/75538894/208184548-82577d8a-21fd-421b-9c9c-29eb7c7acfd0.png" width="64" height="64" />
-<img src="https://user-images.githubusercontent.com/75538894/208183942-a1209a7a-1fd9-47ed-b320-cf9cd1df4329.png" width="64" height="64" />
+<div>
+   <img src="https://user-images.githubusercontent.com/75538894/208184423-2c379c75-265d-4d35-9334-82bf41f372c6.png" width="64" height="64" /> 
+   <img src="https://user-images.githubusercontent.com/75538894/208184548-82577d8a-21fd-421b-9c9c-29eb7c7acfd0.png" width="64" height="64" />
+   <img src="https://user-images.githubusercontent.com/75538894/208183942-a1209a7a-1fd9-47ed-b320-cf9cd1df4329.png" width="64" height="64" />
+</div>
    
 Conclusion💁🏻‍♂️
 And this is all about me. If you want to contact with me
