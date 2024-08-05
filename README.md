@@ -12,9 +12,7 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 ### I know many programming languages like Java(main, OOP, swing), C#(Windows forms), JavaScript.
 
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png)
-![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png)
-![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png)
@@ -32,7 +30,6 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 ### I work with PostgreSQL database.
 
 <img src = "https://user-images.githubusercontent.com/75538894/208183100-f8f7ee4d-89a5-4979-a918-1e82fa69c8af.png" width="64" height="64" /> 
-<img src = "https://user-images.githubusercontent.com/75538894/208183390-cf53ec33-f0a5-420d-bce5-8b0bf9bc1a6b.png" width="64" height="64" />
 
 ### At the same time I'm good with Linux, APIs, DSA, Math, OOP, Git.
 
