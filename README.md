@@ -12,20 +12,24 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 ### I know many programming languages like Java(main, OOP, swing), C#(Windows forms), JavaScript.
 
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png)
-![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png)
+![image](https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png)
 
+<style>
+   div{
+      display: flex,
+      flex-direction: row
+   }
+</style>
 ### I am familiar with frameworks like Spring(especially Spring Boot), and many other libraries.
-
-<img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="64" height="64" /> 
-<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="64" height="64" />
-<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="64" height="64" />
-<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="64" height="64" />
-<img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" width="64" height="64" />
-<img src="https://user-images.githubusercontent.com/75538894/208183758-b7771a27-b49d-4781-af2d-c831ca867ad2.png" width="64" height="64" />
-<img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" width="64" height="64" />
+<div>
+   <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="64" height="64" /> 
+   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="64" height="64" />
+   <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="64" height="64" />
+   <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="64" height="64" />
+</div>
 
 ### I work with PostgreSQL database.
 
@@ -35,7 +39,6 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 
 <img src="https://user-images.githubusercontent.com/75538894/208184423-2c379c75-265d-4d35-9334-82bf41f372c6.png" width="64" height="64" /> 
 <img src="https://user-images.githubusercontent.com/75538894/208184548-82577d8a-21fd-421b-9c9c-29eb7c7acfd0.png" width="64" height="64" />
-<img src="https://user-images.githubusercontent.com/75538894/208184779-18bcaeab-7441-4ccd-9790-39c145e09b6d.png" width="64" height="64" />
 <img src="https://user-images.githubusercontent.com/75538894/208183942-a1209a7a-1fd9-47ed-b320-cf9cd1df4329.png" width="64" height="64" />
    
 Conclusion💁🏻‍♂️
