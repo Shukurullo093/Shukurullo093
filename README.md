@@ -17,12 +17,6 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_64x64.png)
 ![image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png)
 
-<style>
-   div{
-      display: flex,
-      flex-direction: row
-   }
-</style>
 ### I am familiar with frameworks like Spring(especially Spring Boot), and many other libraries.
 <div>
    <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="64" height="64" /> 
